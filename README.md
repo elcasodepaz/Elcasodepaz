@@ -3,7 +3,7 @@
 </p>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=elcasodepaz&label=Profile%20views&color=00ff9c&style=flat&count=9999" />
+  <img src="https://komarev.com/ghpvc/?username=elcasodepaz&label=Profile%20views&color=00ff9c&style=flat&count=99999" />
 </p>
 
 <h1 align="center">💣 CyberFight Ops HQ 💻🥊</h1>

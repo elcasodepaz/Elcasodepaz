@@ -11,21 +11,32 @@
 
 ---
 
-## 🎨 Official Color Palette
-
 <p align="center">
-  <img src="https://via.placeholder.com/500x60/000000/FFFFFF?text=Primary:+#000000+(Dark)+|+#00FF9C+(Neon+Green)+|+#A855F7+(Neon+Purple)" />
+  <img src="https://img.shields.io/badge/Fighter%20By%20Day-%2300FF9C?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hacker%20By%20Night-%23A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wifi%20Tools-%23000000?style=for-the-badge&labelColor=00FF9C" />
 </p>
 
-| Color | Hex | Usage |
-|-------|-----|--------|
-| Dark | #000000 | Background / Terminal Base |
-| Neon Green | #00FF9C | Highlights / Glow |
-| Neon Purple | #A855F7 | Accents / Links |
+---
+
+## 🎨 Official Color Palette
+
+| Color        | Hex        | Usage                 |
+|--------------|------------|-----------------------|
+| ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000` | Background / Terminal  |
+| ![#00FF9C](https://via.placeholder.com/15/00FF9C/00FF9C?text=+) `#00FF9C` | Neon Green Highlights  |
+| ![#A855F7](https://via.placeholder.com/15/A855F7/A855F7?text=+) `#A855F7` | Neon Purple Accents  |
 
 ---
 
 ## 🧠 About Me
+
+```diff
++ Tools Built In The Lab
+- Only for Real Ones
+! Respect The Ring. Respect The Code.
+```
 
 Yo! I go by **FireFightsTV**, aka **CyberEyez**.  
 By day, I break down fights.  
@@ -80,7 +91,11 @@ This is my digital lab — where street smarts meet scripts.
 
 ---
 
-<h2 align="center">⚡ GitHub Stats ⚡</h2>
+<h2 align="center">⚡ GitHub Stats & Trophies ⚡</h2>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elcasodepaz&theme=darkhub" />
+</p>
 
 <p align="center">
   <a href="http://www.github.com/elcasodepaz">
@@ -103,6 +118,3 @@ This is my digital lab — where street smarts meet scripts.
 <p align="center">
   <strong>💥 Stay Dangerous. Stay Learning. 💥</strong>
 </p>
-
-
-

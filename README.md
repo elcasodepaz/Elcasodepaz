@@ -9,7 +9,7 @@
 follow my cyber security journey 
 * 🌍  I'm based in the cyberrealm
 * ✉️  You can contact me at [cyberrealm44@gmail.com](mailto:cyberrealm44@gmail.com)
-* 🚀  I'm currently working on [translating my top python projects into spanish]()
+* 🚀  I'm currently working on [building my hacking lab]
 * 🧠  I'm learning python, sql, docker, wireshark, malware analysis
 * 🤝  I'm open to collaborating on cyber security projects
 * ⚡  i been secretly planning on how to take over the world like pinky .'. L👀k 

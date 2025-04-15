@@ -61,13 +61,28 @@ Wanna build, learn, and vibe with the crew?
 
 ---
 
-## ⭐ Support the Movement
+## 💥 Extras 💥
 
-If you vibe with my content:
-- Star the repos 🌟  
-- Share with others 🗣️  
-- Drop a pull request 🔧  
-- Or just pull up to the Lab and vibe 🔥
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/elcasodepaz/Elcasodepaz/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<a href="http://www.github.com/elcasodepaz"><img src="https://github-readme-stats.vercel.app/api?username=elcasodepaz&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=22c55e&icon_color=a855f7&bg_color=000000&hide_border=true&show_icons=true" alt="elcasodepaz's GitHub stats" /></a>
+
+<a href="http://www.github.com/elcasodepaz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=elcasodepaz&stroke=22c55e&background=000000&ring=a855f7&fire=a855f7&currStreakNum=22c55e&currStreakLabel=a855f7&sideNums=22c55e&sideLabels=22c55e&dates=22c55e&hide_border=true" /></a>
+
+<a href="https://github.com/elcasodepaz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcasodepaz&langs_count=10&title_color=a855f7&text_color=22c55e&icon_color=a855f7&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<br/><br/>
+
+<hr/>
 
 <p align="center">
 💥 Stay dangerous. Stay learning. 💥

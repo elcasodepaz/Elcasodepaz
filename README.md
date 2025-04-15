@@ -121,10 +121,9 @@ This is my digital lab — where street smarts meet scripts.
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </p>
 
 <p align="center">
   <strong>💥 Stay Dangerous. Stay Learning. 💥</strong>
 </p>
-

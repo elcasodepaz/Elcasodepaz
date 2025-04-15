@@ -88,7 +88,7 @@ This is my digital lab — where street smarts meet scripts.
 
 ---
 
-## 🐍 Contributions & Animations
+## Contributions & Animations
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -113,10 +113,6 @@ This is my digital lab — where street smarts meet scripts.
   <a href="https://github.com/elcasodepaz" align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcasodepaz&langs_count=10&title_color=00ff9c&text_color=00ff9c&icon_color=00ff9c&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=elcasodepaz&bg_color=0d1117&color=00ff9c&line=00ff9c&point=00ff9c&area=true&hide_border=true" />
 </p>
 
 <p align="center">

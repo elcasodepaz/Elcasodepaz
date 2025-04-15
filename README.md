@@ -1,6 +1,9 @@
-
 <p align="center">
   <img src="https://github.com/elcasodepaz/elcasodepaz/raw/main/cyberfightops-banner.png" />
+</p>
+
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=elcasodepaz&label=Profile%20views&color=00ff9c&style=flat&count=9999" />
 </p>
 
 <h1 align="center">💣 CyberFight Ops HQ 💻🥊</h1>
@@ -118,15 +121,6 @@ This is my digital lab — where street smarts meet scripts.
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=elcasodepaz&label=Profile%20views&color=00ff9c&style=flat" />
-</p>
-
-<p align="center">
-  <strong>💥 Stay Dangerous. Stay Learning. 💥</strong>
-</p>
-
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
 </p>
 
 <p align="center">

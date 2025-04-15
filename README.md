@@ -1,7 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/elcasodepaz/elcasodepaz/raw/main/A_digital_artwork_in_a_cyberpunk_and_futuristic_st.png />
-</p>
+  <img src="https://github.com/elcasodepaz/elcasodepaz/raw/main/cyberfightops-banner.png" />
 
 <h1 align="center">💣 CyberFight Ops HQ 💻🥊</h1>
 

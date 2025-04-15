@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://github.com/elcasodepaz/elcasodepaz/raw/main/cyberfightops-banner.png" />
 </p>
+
 <h1 align="center">💣 CyberFight Ops HQ 💻🥊</h1>
 
 <p align="center">
@@ -11,14 +12,8 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Fighter%20By%20Day-%2300FF9C?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hacker%20By%20Night-%23A855F7?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wifi%20Tools-%23000000?style=for-the-badge&labelColor=00FF9C" />
-</p>
-
 ---
+
 ## 🧠 About Me
 
 ```diff
@@ -33,7 +28,7 @@ By night, I break down code.
 This is my digital lab — where street smarts meet scripts.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="220">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220">
 </p>
 
 ---
@@ -47,7 +42,7 @@ This is my digital lab — where street smarts meet scripts.
 - 🔐 Cybersecurity knowledge for real ones
 
 <p align="center">
-  <img src="https://media.giphy.com/media/MaI6BylfjN0N6/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220">
 </p>
 
 ---

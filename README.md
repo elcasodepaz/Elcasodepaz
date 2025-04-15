@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="120">
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="160">
 </p>
 
 <h1 align="center">💣 CyberFight Ops HQ 💻🥊</h1>
@@ -11,6 +11,20 @@
 
 ---
 
+## 🎨 Official Color Palette
+
+<p align="center">
+  <img src="https://via.placeholder.com/500x60/000000/FFFFFF?text=Primary:+#000000+(Dark)+|+#00FF9C+(Neon+Green)+|+#A855F7+(Neon+Purple)" />
+</p>
+
+| Color | Hex | Usage |
+|-------|-----|--------|
+| Dark | #000000 | Background / Terminal Base |
+| Neon Green | #00FF9C | Highlights / Glow |
+| Neon Purple | #A855F7 | Accents / Links |
+
+---
+
 ## 🧠 About Me
 
 Yo! I go by **FireFightsTV**, aka **CyberEyez**.  
@@ -19,7 +33,7 @@ By night, I break down code.
 This is my digital lab — where street smarts meet scripts.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26BRQTezZrKak4BeE/giphy.gif" width="220">
+  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="220">
 </p>
 
 ---
@@ -33,7 +47,7 @@ This is my digital lab — where street smarts meet scripts.
 - 🔐 Cybersecurity knowledge for real ones
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3ohzdYJK1wAdPWVk88/giphy.gif" width="180">
+  <img src="https://media.giphy.com/media/MaI6BylfjN0N6/giphy.gif" width="200">
 </p>
 
 ---
@@ -42,13 +56,9 @@ This is my digital lab — where street smarts meet scripts.
 
 > 🔗 [https://linktr.ee/FireFightsTv](https://linktr.ee/FireFightsTv)
 
-Access my content across platforms — boxing, hacking, videos, and more.
-
 ---
 
 ## 🧠 Join The Community
-
-Wanna build, learn, and vibe with the crew?
 
 > 💬 [Join the CyberFight Ops HQ Discord](your-discord-invite-here)  
 > 🔥 [Follow the CyberFight X Community](your-x-platform-community-link)
@@ -85,6 +95,15 @@ Wanna build, learn, and vibe with the crew?
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+</p>
+
+<p align="center">
+  <strong>💥 Stay Dangerous. Stay Learning. 💥</strong>
+</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />

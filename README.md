@@ -1,46 +1,64 @@
-# 👊 Welcome to CyberFight Ops HQ 🖥️
-
-*Boxers in the front. Hackers in the back.*
-
----
-
-### 🥊 About Me:
-I'm FireFightsTV aka CyberEyez —  
-Boxing Content Creator by day, Hacking Enthusiast by night.
-
-This is the *Lab* where I build tools, share code & vibe with real ones.
+<h1 align="center">💣 CyberFight Ops HQ 💻🥊</h1>
+<p align="center">
+  <strong>Boxers in the front. Hackers in the back.</strong><br>
+  <em>Respect The Ring. Respect The Code.</em>
+</p>
 
 ---
 
-### 💻 What You'll Find Here:
-- Ethical Hacking Tools  
-- Python Scripts  
-- WiFi Projects  
-- Open Source OSINT Tools  
-- Cybersecurity Notes  
-- Tools Built In The Lab  
+## 🥊 About Me
+
+Yo! I go by **FireFightsTV**, aka **CyberEyez**.  
+By day, I break down fights.  
+By night, I break down code.  
+This is my digital lab — a space where tech meets the ring.
 
 ---
 
-### 🧠 Community:
-Join my hacking layer, chop it up & learn with us:
+## 💻 What You'll Find In This Lab
 
-→ [CyberFight Ops HQ Discord](your link here)  
-→ [Follow my Hacking X Community](your link here)
-
----
-
-### 🥷 Motto:
-> *Respect The Ring. Respect The Code.*
+- 🧰 Beginner-friendly **Python hacking tools**
+- 📡 WiFi & OSINT toolkits
+- 🧠 Cybersecurity notes and guides
+- 🧪 Scripts built live during hacking sessions
+- 🔓 Projects for **ethical hacking & learning only**
 
 ---
 
-### Support The Movement:
-If my tools help you out → star ⭐ the repo, share it, or pull up to the lab.
+## 🌐 My LinkTree  
+> 🔗 [https://linktr.ee/FireFightsTv](https://linktr.ee/FireFightsTv)
+
+Find all my platforms — boxing, hacking, tutorials, and more.
 
 ---
 
-Stay dangerous. Stay learning.
+## 🧠 Join The Community
 
+Wanna build, learn, and vibe with the crew?
+
+> 💬 [Join the CyberFight Ops HQ Discord](your-discord-invite-here)  
+> 🔥 [Follow the CyberFight X Community](your-x-platform-community-link)
+
+---
+
+## ⚔️ The Motto
+
+> “Train the body. Train the mind. Defend both.”
+
+---
+
+## ⭐ Support the Movement
+
+If you vibe with my content:
+- Star the repos 🌟  
+- Share with others 🗣️  
+- Drop a pull request 🔧  
+- Or just pull up to the Lab and vibe 🔥
+
+---
+
+<p align="center">
+💥 Stay dangerous. Stay learning. 💥  
+</p>
 
 

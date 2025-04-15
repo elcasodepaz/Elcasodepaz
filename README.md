@@ -27,7 +27,7 @@
 ! Respect The Ring. Respect The Code.
 ```
 
-Yo! I go by **FireFightsTV**, aka **CyberEyez**.  
+Yo! I'm elcaso de paz - I go by **FireFightsTV**, aka **CyberEyez**.  
 By day, I break down fights.  
 By night, I break down code.  
 This is my digital lab — where street smarts meet scripts.

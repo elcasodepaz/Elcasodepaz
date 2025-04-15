@@ -35,7 +35,7 @@ By night, I break down code.
 This is my digital lab — where street smarts meet scripts.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6MbltU8jV9VIdOsM/giphy.gif" width="220">
+  <img src="https://media.giphy.com/media/LPU3Ahx6wGsRCDVgV0/giphy.gif" width="220" />
 </p>
 
 ---
@@ -49,7 +49,7 @@ This is my digital lab — where street smarts meet scripts.
 - 🔐 Cybersecurity knowledge for real ones
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="220">
+  <img src="https://media.giphy.com/media/hWh8fislMRtp0bFUuE/giphy.gif" width="220" />
 </p>
 
 ---
@@ -58,6 +58,10 @@ This is my digital lab — where street smarts meet scripts.
 
 > 🔗 [https://linktr.ee/FireFightsTv](https://linktr.ee/FireFightsTv)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/JTheOT8fz6vMzQeFmB/giphy.gif" width="220" />
+</p>
+
 ---
 
 ## 🧠 Join The Community
@@ -65,11 +69,19 @@ This is my digital lab — where street smarts meet scripts.
 > 💬 [Join the CyberFight Ops HQ Discord](your-discord-invite-here)  
 > 🔥 [Follow the CyberFight X Community](your-x-platform-community-link)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/PkLCAETkRrbYCgqzl5/giphy.gif" width="220" />
+</p>
+
 ---
 
 ## ⚔️ The Motto
 
 > "Train the body. Train the mind. Defend both."
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6MbltU8jV9VIdOsM/giphy.gif" width="280" />
+</p>
 
 ---
 
@@ -100,7 +112,18 @@ This is my digital lab — where street smarts meet scripts.
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=elcasodepaz&bg_color=0d1117&color=00ff9c&line=00ff9c&point=00ff9c&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elcasodepaz&label=Profile%20views&color=00ff9c&style=flat" />
+</p>
+
+<p align="center">
+  <strong>💥 Stay Dangerous. Stay Learning. 💥</strong>
+</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />

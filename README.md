@@ -20,17 +20,6 @@
 </p>
 
 ---
-
-## 🎨 Official Color Palette
-
-| Color        | Hex        | Usage                 |
-|--------------|------------|-----------------------|
-| ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000` | Background / Terminal  |
-| ![#00FF9C](https://via.placeholder.com/15/00FF9C/00FF9C?text=+) `#00FF9C` | Neon Green Highlights  |
-| ![#A855F7](https://via.placeholder.com/15/A855F7/A855F7?text=+) `#A855F7` | Neon Purple Accents  |
-
----
-
 ## 🧠 About Me
 
 ```diff

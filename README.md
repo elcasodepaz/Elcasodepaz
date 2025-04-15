@@ -1,5 +1,6 @@
+
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="160">
+  <img src="https://github.com/elcasodepaz/elcasodepaz/raw/main/cyberfightops-banner.png" />
 </p>
 
 <h1 align="center">💣 CyberFight Ops HQ 💻🥊</h1>
@@ -19,6 +20,17 @@
 </p>
 
 ---
+
+## 🎨 Official Color Palette
+
+| Color        | Hex        | Usage                 |
+|--------------|------------|-----------------------|
+| ![#000000](https://via.placeholder.com/15/000000/000000?text=+) `#000000` | Background / Terminal  |
+| ![#00FF9C](https://via.placeholder.com/15/00FF9C/00FF9C?text=+) `#00FF9C` | Neon Green Highlights  |
+| ![#A855F7](https://via.placeholder.com/15/A855F7/A855F7?text=+) `#A855F7` | Neon Purple Accents  |
+
+---
+
 ## 🧠 About Me
 
 ```diff
@@ -27,7 +39,7 @@
 ! Respect The Ring. Respect The Code.
 ```
 
-Yo! some know me as **elcaso de paz**, AKA **FireFightsTV**, AKA **CyberEyez**.  
+Yo! I go by **FireFightsTV**, aka **CyberEyez**.  
 By day, I break down fights.  
 By night, I break down code.  
 This is my digital lab — where street smarts meet scripts.

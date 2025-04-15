@@ -119,10 +119,12 @@ This is my digital lab — where street smarts meet scripts.
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=elcasodepaz&bg_color=0d1117&color=00ff9c&line=00ff9c&point=00ff9c&area=true&hide_border=true" />
 </p>
 
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elcasodepaz&label=Profile%20views&color=00ff9c&style=flat" />
+  <img src="https://media.giphy.com/media/9J7tdYltWyXIY/giphy.gif" width="280" />
 </p>
 
 <p align="center">
   <strong>💥 Stay Dangerous. Stay Learning. 💥</strong>
 </p>
+

@@ -1,4 +1,9 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlOvJ7yaacpuSas/giphy.gif" width="120">
+</p>
+
 <h1 align="center">💣 CyberFight Ops HQ 💻🥊</h1>
+
 <p align="center">
   <strong>Boxers in the front. Hackers in the back.</strong><br>
   <em>Respect The Ring. Respect The Code.</em>
@@ -13,6 +18,10 @@ By day, I break down fights.
 By night, I break down code.  
 This is my digital lab — a space where tech meets the ring.
 
+<p align="center">
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="220">
+</p>
+
 ---
 
 ## 💻 What You'll Find In This Lab
@@ -23,9 +32,14 @@ This is my digital lab — a space where tech meets the ring.
 - 🧪 Scripts built live during hacking sessions
 - 🔓 Projects for **ethical hacking & learning only**
 
+<p align="center">
+  <img src="https://media.giphy.com/media/3o6Mbbs879ozZ9Yic0/giphy.gif" width="180">
+</p>
+
 ---
 
-## 🌐 My LinkTree  
+## 🌐 My LinkTree
+
 > 🔗 [https://linktr.ee/FireFightsTv](https://linktr.ee/FireFightsTv)
 
 Find all my platforms — boxing, hacking, tutorials, and more.
@@ -55,10 +69,6 @@ If you vibe with my content:
 - Drop a pull request 🔧  
 - Or just pull up to the Lab and vibe 🔥
 
----
-
 <p align="center">
-💥 Stay dangerous. Stay learning. 💥  
+💥 Stay dangerous. Stay learning. 💥
 </p>
-
-

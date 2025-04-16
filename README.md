@@ -69,7 +69,7 @@ This is my digital lab — where street smarts meet scripts.
 
 ## 🧠 Join The Community
 
-> 💬 [Join the CyberFight Ops HQ Discord](your-discord-invite-here)  
+> 💬 [Join the CyberFight Ops HQ Discord](https://discord.gg/8f8CNtxw)  
 > 🔥 [Follow the CyberFight X Community](https://x.com/i/communities/1775733541424279766)
 
 <p align="center">

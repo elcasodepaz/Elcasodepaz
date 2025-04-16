@@ -19,3 +19,25 @@
 + Built In The Dark
 - For The Real Ones
 ! Respect The Ring. Respect The Code.
+
+Yo, I’m FireFightsTV, a.k.a. CyberEyez.
+🥊 By day, I break down fights.
+🧠 By night, I break down firewalls.
+This lab is where scripts hit like jabs and recon moves like feints.
+🔥 Tools made for real ones, not tourists.
+
+🔧 What’s Inside:
+	•	🐍 Python scripts for ethical hacking
+	•	🌐 OSINT & recon automation
+	•	📶 WiFi attack & defense tools
+	•	🔬 Terminal writeups & live tests
+	•	🛡️ Cybersecurity for the underground
+
+🕸️ Connect:
+🔗 LinkTree
+💬 CyberFight Ops Discord
+🧵 X Community
+
+🧠 Motto:
+
+“Train the body. Train the mind. Defend both.”

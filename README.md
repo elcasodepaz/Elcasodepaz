@@ -13,7 +13,7 @@
   <em>Respect The Ring. Respect The Code.</em>
 </p>
 
----
+--- 
 
 <p align="center">
   <img src="https://img.shields.io/badge/Fighter%20By%20Day-%2300FF9C?style=for-the-badge&logo=github&logoColor=white" />
@@ -70,7 +70,7 @@ This is my digital lab — where street smarts meet scripts.
 ## 🧠 Join The Community
 
 > 💬 [Join the CyberFight Ops HQ Discord](your-discord-invite-here)  
-> 🔥 [Follow the CyberFight X Community](your-x-platform-community-link)
+> 🔥 [Follow the CyberFight X Community](https://x.com/i/communities/1775733541424279766)
 
 <p align="center">
   <img src="https://media.giphy.com/media/PkLCAETkRrbYCgqzl5/giphy.gif" width="220" />

@@ -22,7 +22,7 @@
 ! Respect The Ring. Respect The Code.
 ```
 
-Yo, I’m **ElCaso Depaz** 🧠  
+Hello, I’m **ElCaso Depaz** 🧠  
 But depending on the mission... I switch gears.
 
 🥊 When I’m breaking down fights and dropping knockout content, I go by **FireFightsTV**.  
@@ -40,6 +40,7 @@ Built for warriors of the physical and digital world.
 
 🧰 **Toolbelt / Stack**  
 <p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -48,6 +49,8 @@ Built for warriors of the physical and digital world.
   <img src="https://img.shields.io/badge/Zsh-89e051?style=for-the-badge&logo=gnubash&logoColor=black" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
+
+⚙️ **Automation Zone**  
 
 ⚙️ **Automation Zone**  
 > Self-deployed. Self-updating. Silent execution.

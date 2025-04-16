@@ -30,3 +30,25 @@
 + Tools Built In The Lab
 - Only for Real Ones
 ! Respect The Ring. Respect The Code.
+
+<p align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/elcasodepaz/Elcasodepaz/output/github-contribution-grid-snake.svg" />
+</p>
+
+
+<h2 align="center">📊 GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elcasodepaz&theme=darkhub" />
+</p>
+<p align="center">
+  <a href="http://www.github.com/elcasodepaz">
+    <img src="https://github-readme-stats.vercel.app/api?username=elcasodepaz&show_icons=true&count_private=true&title_color=00ff9c&text_color=00ff9c&icon_color=00ff9c&bg_color=0d1117&hide_border=true" />
+  </a>
+  <a href="http://www.github.com/elcasodepaz">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elcasodepaz&stroke=00ff9c&background=0d1117&ring=00ff9c&fire=00ff9c&currStreakNum=00ff9c&currStreakLabel=00ff9c&sideNums=00ff9c&sideLabels=00ff9c&dates=00ff9c&hide_border=true" />
+  </a>
+  <a href="https://github.com/elcasodepaz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcasodepaz&langs_count=10&title_color=00ff9c&text_color=00ff9c&icon_color=00ff9c&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20Languages" />
+  </a>
+</p>
+

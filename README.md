@@ -22,28 +22,42 @@
 ! Respect The Ring. Respect The Code.
 ```
 
-Yo, I’m **FireFightsTV**, a.k.a. **CyberEyez**.  
-🥊 By day, I break down fights.  
-🧠 By night, I break down firewalls.  
-This lab is where scripts hit like jabs and recon moves like feints.  
-🔥 Tools made for real ones, not tourists.
+Yo, I’m **ElCaso Depaz** 🧠  
+But depending on the mission... I switch gears.
+
+🥊 When I’m breaking down fights and dropping knockout content, I go by **FireFightsTV**.  
+💻 When I’m laced up in code and launching cyber ops, I’m **CyberEyez** — the one watching from the shadows.
+
+This isn’t just a GitHub — it’s the crossroad where brawlers and hackers meet.  
+Built for warriors of the physical and digital world.
 
 🔧 What's Inside:  
-- 🐍 Python scripts for ethical hacking  
+- 🐍 Python tools for ethical hacking  
 - 🌐 OSINT & recon automation  
-- 📶 WiFi attack & defense tools  
-- 🔬 Terminal writeups & live tests  
-- 🛡️ Cybersecurity for the underground
+- 📶 WiFi attack & defense kits  
+- 🔬 Terminal writeups & experiments  
+- 🥷 Digital defense tactics for the bold
+
+🧰 **Toolbelt / Stack**  
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-%2300FF9C?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-%2300FF9C?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-%2300FF9C?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-%2300FF9C?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tmux-%2300FF9C?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zsh-%2300FF9C?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-%2300FF9C?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
 ⚙️ **Automation Zone**  
 > Self-deployed. Self-updating. Silent execution.
 
-🧠 Inside this section:  
-- 🛰️ Crontab-scheduled bots posting live updates  
-- 🕵️‍♂️ Telegram automation + alert systems  
-- 📡 GitHub Actions used for stealth deployments  
-- 🧾 Shell scripts on deck for OSINT and scraping  
-- 🧠 Future plans: AI-powered fight breakdown tools
+Inside this sector:  
+- 🤖 Python bots on schedule  
+- 🛰️ Crontab command missions  
+- 📟 Telegram alert systems  
+- 🕵️ OSINT & scraping tools  
+- 🧠 AI & ML experiments coming soon
 
 🕸️ Connect:  
 🔗 [LinkTree](https://linktr.ee/FireFightsTv)  
@@ -68,21 +82,4 @@ This lab is where scripts hit like jabs and recon moves like feints.
     <img src="https://github-readme-stats.vercel.app/api?username=elcasodepaz&show_icons=true&count_private=true&title_color=00ff9c&text_color=00ff9c&icon_color=00ff9c&bg_color=000000&hide_border=true" />
   </a>
   <a href="http://www.github.com/elcasodepaz">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=elcasodepaz&stroke=00ff9c&background=000000&ring=00ff9c&fire=00ff9c&currStreakNum=00ff9c&currStreakLabel=00ff9c&sideNums=00ff9c&sideLabels=00ff9c&dates=00ff9c&hide_border=true" />
-  </a>
-  <a href="https://github.com/elcasodepaz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcasodepaz&langs_count=10&title_color=00ff9c&text_color=00ff9c&icon_color=00ff9c&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=elcasodepaz&bg_color=000000&color=00ff9c&line=00ff9c&point=00ff9c&area=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
-</p>
-
-<p align="center">
-  <strong>💥 Stay Dangerous. Stay Learning. 💥</strong>
-</p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user

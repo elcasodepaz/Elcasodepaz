@@ -22,7 +22,7 @@
 ! Respect The Ring. Respect The Code.
 ```
 
-Yo, I’m **elcaso depaz**,a.k.a. **CyberEyez**.My Aliases i go by **FireFightsTV**,   
+Yo, I’m **FireFightsTV**, a.k.a. **CyberEyez**.  
 🥊 By day, I break down fights.  
 🧠 By night, I break down firewalls.  
 This lab is where scripts hit like jabs and recon moves like feints.  
@@ -34,6 +34,16 @@ This lab is where scripts hit like jabs and recon moves like feints.
 - 📶 WiFi attack & defense tools  
 - 🔬 Terminal writeups & live tests  
 - 🛡️ Cybersecurity for the underground
+
+⚙️ **Automation Zone**  
+> Self-deployed. Self-updating. Silent execution.
+
+🧠 Inside this section:  
+- 🛰️ Crontab-scheduled bots posting live updates  
+- 🕵️‍♂️ Telegram automation + alert systems  
+- 📡 GitHub Actions used for stealth deployments  
+- 🧾 Shell scripts on deck for OSINT and scraping  
+- 🧠 Future plans: AI-powered fight breakdown tools
 
 🕸️ Connect:  
 🔗 [LinkTree](https://linktr.ee/FireFightsTv)  

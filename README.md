@@ -40,13 +40,13 @@ Built for warriors of the physical and digital world.
 
 🧰 **Toolbelt / Stack**  
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-%2300FF9C?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-%2300FF9C?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%2300FF9C?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-%2300FF9C?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tmux-%2300FF9C?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zsh-%2300FF9C?style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-%2300FF9C?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zsh-89e051?style=for-the-badge&logo=gnubash&logoColor=black" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ⚙️ **Automation Zone**  

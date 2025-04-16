@@ -22,7 +22,7 @@
 ! Respect The Ring. Respect The Code.
 ```
 
-Yo, I’m **FireFightsTV**, a.k.a. **CyberEyez**.  
+Yo, I’m **elcaso depaz**,a.k.a. **CyberEyez**.My Aliases i go by **FireFightsTV**,   
 🥊 By day, I break down fights.  
 🧠 By night, I break down firewalls.  
 This lab is where scripts hit like jabs and recon moves like feints.  

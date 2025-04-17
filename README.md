@@ -13,6 +13,11 @@
   <strong>Boxers in the front. Hackers in the back.</strong><br>
   <em>Respect The Ring. Respect The Code.</em>
 </p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&vCenter=true&width=800&lines=Welcome+to+CyberFight+Ops+HQ...;Boxers+in+the+front.+Hackers+in+the+back.;Operating+as+FireFightsTV+%26+CyberEyez;Building+tools.+Breaking+limits." alt="Typing animation" />
+</h1>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Fighter%20By%20Day-%2300FF9C?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Hacker%20By%20Night-%2300FF9C?style=for-the-badge" />

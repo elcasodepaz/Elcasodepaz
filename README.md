@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Monospace&size=28&duration=3000&pause=500&color=00FFFF&center=true&vCenter=true&width=800&height=60&lines=SYSTEM+ONLINE...;ACCESS+GRANTED...;WELCOME+TO+THE+GRID...;ELCASODEPAZ+CONTROL+NODE..." alt="Typing Animation">
+</h1>
+
 <p align="center">
   <img src="https://github.com/elcasodepaz/elcasodepaz/raw/main/cyberfightops-banner.png" />
 </p>

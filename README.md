@@ -14,3 +14,21 @@
 + Self-Trained. Home-Lab-Tested.
 - Never Outworked.
 ! Cybersecurity is my next fight—and I came to win.
+
+👋 About Me
+
+Hey, I’m ElCaso Depaz, a self-taught cybersecurity practitioner with hands-on experience in building and breaking systems from the ground up. I blend the mindset of a fighter with the discipline of a defender.
+
+🥊 By day, I study threats.
+💻 By night, I simulate and detect them.
+
+I’m currently focused on building a Purple Team cybersecurity portfolio to earn my first job in the field. Everything you see here is real lab work, built from my own gear, grind, and curiosity.
+
+⸻
+
+🧠 Cybersecurity Journey
+	•	✅ Google Cybersecurity Certificate (Python, SIEM, IDS, Linux, Threat Mitigation)
+	•	🧠 Completed ethical hacking & OSINT training on Udemy
+	•	💻 Building a multi-machine lab (MacBook, Kali ThinkPad, Windows 11, Raspberry Pi)
+	•	🔍 Developing detection rules, log analysis playbooks, and honeypot scenarios
+	•	📚 Practicing daily on TryHackMe / HackTheBox (free tier)

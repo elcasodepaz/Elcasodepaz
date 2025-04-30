@@ -52,7 +52,7 @@ All projects are documented in: [`purple-lab-home`](https://github.com/elcasodep
 
 ## ⚙️ Tools & Skills
 
-- **SIEM & Detection:** Wazuh, Sysmon, Windows Logs  
+- **SIEM & Detection:** Wazuh, Sysmon, Snort, Wireshark, Windows Logs
 - **Offensive Tools:** Hydra, Metasploit, Nmap, msfvenom  
 - **Operating Systems:** Kali Linux, Ubuntu, Windows 11  
 - **Languages/Scripting:** Python (basic), Bash  

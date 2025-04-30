@@ -32,3 +32,14 @@ I’m currently focused on building a Purple Team cybersecurity portfolio to ear
 	•	💻 Building a multi-machine lab (MacBook, Kali ThinkPad, Windows 11, Raspberry Pi)
 	•	🔍 Developing detection rules, log analysis playbooks, and honeypot scenarios
 	•	📚 Practicing daily on TryHackMe / HackTheBox (free tier)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Wazuh-SIEM-%2300FF9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-%2300FF9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Metasploit-%2300FF9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-%2300FF9C?style=for-the-badge" />
+</p>
+

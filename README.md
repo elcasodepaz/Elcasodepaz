@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ ElCaso Depaz | Cybersecurity Journey</h1>
+<h1 align="center">🛡️ Mr.Gramajo | Cybersecurity Journey</h1>
 <p align="center">
   <strong>Self-Taught. Lab-Driven. Mission-Focused.</strong><br>
   <em>Building secure systems by simulating real threats.</em>
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **ElCaso Depaz**, an aspiring cybersecurity analyst focused on detection engineering, attack simulation, and security operations.  
+I'm **Barry Gramajo**, an aspiring cybersecurity analyst focused on detection engineering, attack simulation, and security operations.  
 After completing the **Google Cybersecurity Certificate**, I started building hands-on projects and a personal homelab to document my growth into cybersecurity.
 
 I specialize in **Purple Team thinking** — knowing how attackers operate and building ways to detect and defend against them.
@@ -84,20 +84,43 @@ These projects show my commitment to sharing knowledge across languages and help
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elcasodepaz&show_icons=true&count_private=true&title_color=00ff9c&text_color=00ff9c&icon_color=00ff9c&bg_color=000000&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elcasodepaz&stroke=00ff9c&background=000000&ring=00ff9c&fire=00ff9c&currStreakNum=00ff9c&currStreakLabel=00ff9c&sideNums=00ff9c&sideLabels=00ff9c&dates=00ff9c&hide_border=true" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 - [GitHub Projects](https://github.com/elcasodepaz)  
 - [GitHub Pages Site](https://elcasodepaz.github.io)  
 - [LinkedIn (coming soon)](https://linkedin.com/in/yourhandle)
+
+---
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/elcasodepaz/Elcasodepaz/output/github-contribution-grid-snake.svg" />
+</p>
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=elcasodepaz&theme=matrix" />
+</p>
+
+<p align="center">
+<a href="http://www.github.com/elcasodepaz">
+<img src="https://github-readme-stats.vercel.app/api?username=elcasodepaz&show_icons=true&count_private=true&title_color=00ff9c&text_color=00ff9c&icon_color=00ff9c&bg_color=000000&hide_border=true" />
+</a>
+<a href="http://www.github.com/elcasodepaz">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=elcasodepaz&stroke=00ff9c&background=000000&ring=00ff9c&fire=00ff9c&currStreakNum=00ff9c&currStreakLabel=00ff9c&sideNums=00ff9c&sideLabels=00ff9c&dates=00ff9c&hide_border=true" />
+</a>
+<a href="https://github.com/elcasodepaz">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elcasodepaz&langs_count=10&title_color=00ff9c&text_color=00ff9c&icon_color=00ff9c&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" />
+</a>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=elcasodepaz&bg_color=000000&color=00ff9c&line=00ff9c&point=00ff9c&area=true&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+</p>
 
 ---
 

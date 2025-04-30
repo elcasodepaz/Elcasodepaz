@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **ElCaso Depaz**, an aspiring cybersecurity analyst with a strong focus on detection engineering, attack simulation, and security operations.  
+I'm **Barry Gramajo**, an aspiring cybersecurity analyst with a strong focus on detection engineering, attack simulation, and security operations.  
 After completing the **Google Cybersecurity Certificate**, I began building hands-on labs to sharpen my skills and document my journey into the field.
 
 I specialize in **Purple Team operations** — understanding how attackers think, and creating systems to detect and stop them. This GitHub showcases that path.

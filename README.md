@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ Mr.Gramajo | Cybersecurity Journey</h1>
+<h1 align="center">🛡️ ElCaso Depaz | Cybersecurity Journey</h1>
 <p align="center">
   <strong>Self-Taught. Lab-Driven. Mission-Focused.</strong><br>
   <em>Building secure systems by simulating real threats.</em>
@@ -7,23 +7,23 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certified-%2300FF9C?style=for-the-badge&logo=google" />
   <img src="https://img.shields.io/badge/Linux%20Fundamentals%20HTB-%2300FF9C?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/SOC%20Analyst%20Ready-%2300FF9C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Bilingual%20(English%2FSpanish)-%2300FF9C?style=for-the-badge" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Barry Gramajo**, an aspiring cybersecurity analyst with a strong focus on detection engineering, attack simulation, and security operations.  
-After completing the **Google Cybersecurity Certificate**, I began building hands-on labs to sharpen my skills and document my journey into the field.
+I'm **ElCaso Depaz**, an aspiring cybersecurity analyst focused on detection engineering, attack simulation, and security operations.  
+After completing the **Google Cybersecurity Certificate**, I started building hands-on projects and a personal homelab to document my growth into cybersecurity.
 
-I specialize in **Purple Team operations** — understanding how attackers think, and creating systems to detect and stop them. This GitHub showcases that path.
+I specialize in **Purple Team thinking** — knowing how attackers operate and building ways to detect and defend against them.
 
 ---
 
 ## 🎯 Career Goal
 
-To join a cybersecurity team as a **SOC Analyst**, **Cybersecurity Analyst**, or **GRC Security Associate**, where I can contribute hands-on defensive and detection skills while continuing to grow through real-world scenarios.
+To join a cybersecurity team as a **SOC Analyst**, **Cybersecurity Analyst**, or **Detection Engineer**, where I can contribute technical skill, discipline, and multilingual communication to real-world defense operations.
 
 ---
 
@@ -38,44 +38,49 @@ To join a cybersecurity team as a **SOC Analyst**, **Cybersecurity Analyst**, or
 
 ## 🧪 Projects & Labs
 
-All projects live inside: [`purple-lab-home`](https://github.com/elcasodepaz/purple-lab-home)
+All projects are documented in: [`purple-lab-home`](https://github.com/elcasodepaz/purple-lab-home)
 
-| Project Title | Tools & Stack | Summary |
-|---------------|---------------|---------|
-| **Brute Force Detection** | Hydra, SSH, Wazuh, Sysmon | Simulated brute-force login attempts on Windows; triggered SIEM alerts and custom detection rules |
-| **Phishing Email Simulation** | Gophish, Email logs, Defender | Delivered simulated phishing payload; tracked macro execution using Windows Event Logs |
-| **Reverse Shell Monitoring** | msfvenom, Event Viewer, Defender | Executed shell payload and documented detection signatures using Sysmon |
-| **Firewall & Port Scan Lab** | iptables, ufw, Nmap | Hardened ports, ran scans, and logged unauthorized access attempts |
-| **Honeypot Recon (In Progress)** | Raspberry Pi, Cowrie | Planning low-interaction SSH honeypot to analyze attacker behavior |
+| 🔐 Project | ⚙️ Tools Used | 📄 Description |
+|-----------|--------------|----------------|
+| **Brute Force Detection** | Hydra, SSH, Wazuh, Sysmon | Simulated brute-force login attempts and triggered custom SIEM alerts |
+| **Phishing Email Simulation** | Gophish, Email logs, Defender | Simulated phishing email with macro payload and detection tracking |
+| **Reverse Shell Monitoring** | msfvenom, Sysmon, Event Viewer | Logged shell activity and created detection rules |
+| **Firewall & Port Scan Lab** | iptables, ufw, Nmap | Hardened services and logged unauthorized port scan attempts |
+| **Honeypot Recon (In Progress)** | Raspberry Pi, Cowrie | Building a low-interaction SSH honeypot to study attack behavior |
 
 ---
 
-## 🛠️ Skills & Tools
+## ⚙️ Tools & Skills
 
-- **SIEM & Detection:** Wazuh, Windows Logs, Sysmon  
-- **Offensive Tools:** Nmap, Hydra, Metasploit, msfvenom  
-- **Operating Systems:** Kali Linux, Windows 11, Ubuntu  
-- **Languages/Scripting:** Python (Beginner), Bash  
+- **SIEM & Detection:** Wazuh, Sysmon, Windows Logs  
+- **Offensive Tools:** Hydra, Metasploit, Nmap, msfvenom  
+- **Operating Systems:** Kali Linux, Ubuntu, Windows 11  
+- **Languages/Scripting:** Python (basic), Bash  
 - **Monitoring & Networking:** Wireshark, iptables, ufw  
-- **Frameworks:** MITRE ATT&CK, CIS Controls (basic understanding)
+- **Frameworks:** MITRE ATT&CK, CIS Controls (basic)
+
+---
+
+## 🌐 Language & Community Contributions
+
+I believe cybersecurity is global. I’ve contributed by translating tools and creating multilingual resources.
+
+- 🇪🇸 **[Ojo-Cibernético](https://github.com/elcasodepaz/Ojo-cibernetico)**: Spanish-translated OSINT tool  
+  *Rastreador de Teléfonos y Nombres de Usuario basado en repositorios originales en inglés*
+
+- 🌐 **[WiFi-Snatcher](https://github.com/elcasodepaz/wifi-snatcher)** + **[OSINT-Finder](https://github.com/elcasodepaz/osint-finder)**: Lightweight tools featured on my GitHub Pages terminal-style website:
+  → [elcasodepaz.github.io](https://elcasodepaz.github.io)
+
+These projects show my commitment to sharing knowledge across languages and helping new learners in cybersecurity.
 
 ---
 
 ## 💼 Professional Focus
 
-- Building Purple Team-style home labs with real attacks and detections  
-- Writing detection rules and correlating logs in simulated SOC environments  
-- Practicing incident response documentation and control assessments  
-- Developing lab reports to share with the community and potential employers
-
----
-
-## 🌐 Connect With Me
-
-- [LinkedIn (Coming Soon)](https://linkedin.com/in/yourhandle)  
-- [GitHub Projects](https://github.com/elcasodepaz)  
-- [TryHackMe Profile (optional)](https://tryhackme.com)  
-- [Hack The Box Profile (optional)](https://hackthebox.com)
+- Building Purple Team-style homelabs with offensive and defensive techniques  
+- Writing custom detection rules and analyzing log data  
+- Practicing control assessments and reporting  
+- Documenting all learning and projects in public
 
 ---
 
@@ -86,6 +91,19 @@ All projects live inside: [`purple-lab-home`](https://github.com/elcasodepaz/pur
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=elcasodepaz&stroke=00ff9c&background=000000&ring=00ff9c&fire=00ff9c&currStreakNum=00ff9c&currStreakLabel=00ff9c&sideNums=00ff9c&sideLabels=00ff9c&dates=00ff9c&hide_border=true" />
 </p>
 
+---
+
+## 🌐 Connect With Me
+
+- [GitHub Projects](https://github.com/elcasodepaz)  
+- [GitHub Pages Site](https://elcasodepaz.github.io)  
+- [LinkedIn (coming soon)](https://linkedin.com/in/yourhandle)
+
+---
+
+## 🧠 Motto
+
+> "Every alert tells a story. My job is to find the truth behind it."
 ---
 
 

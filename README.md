@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ ElCaso Depaz | Cybersecurity Journey</h1>
+<h1 align="center">🛡️ Mr.Gramajo | Cybersecurity Journey</h1>
 <p align="center">
   <strong>Self-Taught. Lab-Driven. Mission-Focused.</strong><br>
   <em>Building secure systems by simulating real threats.</em>

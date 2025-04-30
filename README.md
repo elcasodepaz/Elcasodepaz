@@ -8,7 +8,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=elcasodepaz&label=Profile%20views&color=00ff9c&style=flat&count=9999" />
 </p>
-<h1 align="center">💻 CyberFight Ops HQ 💣</h1>
+<h1 align="center">💻 Gramajo Threatops💣</h1>
 <p align="center">
   <strong>Boxers in the front. Hackers in the back.</strong><br>
   <em>Respect The Ring. Respect The Code.</em>

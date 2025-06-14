@@ -1,4 +1,4 @@
-<h1 align="center">🛡️ Mr.Gramajo | Cybersecurity Journey</h1>
+<h1 align="center">🛡️ Anthony G. | Cybersecurity Journey</h1>
 <p align="center">
   <strong>Self-Taught. Lab-Driven. Mission-Focused.</strong><br>
   <em>Building secure systems by simulating real threats.</em>
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Anthony Gramajo**, an aspiring cybersecurity analyst focused on detection engineering, attack simulation, and security operations.  
+I'm **Anthony G **, an aspiring cybersecurity analyst focused on detection engineering, attack simulation, and security operations.  
 After completing the **Google Cybersecurity Certificate**, I started building hands-on projects and a personal homelab to document my growth into cybersecurity.
 
 I specialize in **Purple Team thinking** — knowing how attackers operate and building ways to detect and defend against them.

@@ -1,94 +1,81 @@
-<h1 align="center">🛡️ Anthony G. | Cybersecurity Journey</h1>
+<h1 align="center">🛡️ Anthony G. | Cybersecurity Services</h1>
 <p align="center">
-  <strong>Self-Taught. Lab-Driven. Mission-Focused.</strong><br>
-  <em>Building secure systems by simulating real threats.</em>
+  <strong>Expert Network Security for Small Businesses & Families.</strong><br>
+  <em>Making enterprise-grade security simple, accessible, and affordable.</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Google%20Cybersecurity%20Certified-%2300FF9C?style=for-the-badge&logo=google" />
-  <img src="https://img.shields.io/badge/Linux%20Fundamentals%20HTB-%2300FF9C?style=for-the-badge&logo=linux" />
-  <img src="https://img.shields.io/badge/Bilingual%20(English%2FSpanish)-%2300FF9C?style=for-the-badge" />
+  <a href="#-services--what-i-offer"><img src="https://img.shields.io/badge/Router%20Hardening- uzman-blue?style=for-the-badge&logo=linux-mint" /></a>
+  <a href="#-services--what-i-offer"><img src="https://img.shields.io/badge/Security%20Checkups- uzman-blue?style=for-the-badge&logo=searxng" /></a>
+  <a href="#-my-approach--why-choose-me"><img src="https://img.shields.io/badge/Bilingual%20(English%2FSpanish)-%2300FF9C?style=for-the-badge" /></a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About My Business
 
-I'm **Anthony G**, an aspiring cybersecurity analyst focused on detection engineering, attack simulation, and security operations.  
-After completing the **Google Cybersecurity Certificate**, I started building hands-on projects and a personal homelab to document my growth into cybersecurity.
+I'm **Anthony G.**, the founder and sole operator of this cybersecurity service. I started this business with a clear mission: to protect the digital lives of small businesses and families—the very people often overlooked by large cybersecurity firms.
 
-I specialize in **Purple Team thinking** — knowing how attackers operate and building ways to detect and defend against them.
-
----
-
-## 🎯 Career Goal
-
-To join a cybersecurity team as a **SOC Analyst**, **Cybersecurity Analyst**, or **Detection Engineer**, where I can contribute technical skill, discipline, and multilingual communication to real-world defense operations.
+My approach is built on **"Purple Team" thinking**. I study the tools and techniques used by attackers in order to build practical, robust defenses against real-world threats. I don't just install software; I secure your network from the inside out.
 
 ---
 
-## 📜 Certifications
+## 🛡️ Services & What I Offer
 
-- **Google Cybersecurity Professional Certificate** (Coursera)
-- **Linux Fundamentals** – Hack The Box Academy (2024)
-- **Ethical Hacking for Beginners** – Udemy
-- **Social Engineering, OSINT & Malware** – Udemy
+I provide personalized security solutions to protect your most critical digital assets.
 
----
-
-## 🧪 Projects & Labs
-
-All projects are documented in: [`purple-lab-home`](https://github.com/elcasodepaz/purple-lab-home)
-
-| 🔐 Project | ⚙️ Tools Used | 📄 Description |
-|-----------|--------------|----------------|
-| **Brute Force Detection** | Hydra, SSH, Wazuh, Sysmon | Simulated brute-force login attempts and triggered custom SIEM alerts |
-| **Phishing Email Simulation** | Gophish, Email logs, Defender | Simulated phishing email with macro payload and detection tracking |
-| **Reverse Shell Monitoring** | msfvenom, Sysmon, Event Viewer | Logged shell activity and created detection rules |
-| **Firewall & Port Scan Lab** | iptables, ufw, Nmap | Hardened services and logged unauthorized port scan attempts |
-| **Honeypot Recon (In Progress)** | Raspberry Pi, Cowrie | Building a low-interaction SSH honeypot to study attack behavior |
+| Service | Who It's For | What It Includes |
+| :--- | :--- | :--- |
+| **Network Security & Router Hardening** | Small Businesses, Families | Securing the gateway to your network. I configure your router and Wi-Fi to block intruders, prevent snooping, and ensure only authorized devices are connected. |
+| **Cybersecurity Checkups** | Small Businesses, Home Offices | A health check for your digital security. I perform a friendly penetration test to find and fix vulnerabilities in your network, devices, and online accounts before attackers can exploit them. |
+| **Security Education & Training** | Employees, Families | The human firewall is the strongest. I offer one-on-one or group training to help you spot phishing scams, create strong passwords, and use the internet safely. |
 
 ---
 
-## ⚙️ Tools & Skills
+## 🎯 My Approach & Why Choose Me?
 
-- **SIEM & Detection:** Wazuh, Sysmon, Snort, Wireshark, Windows Logs
-- **Offensive Tools:** Hydra, Metasploit, Nmap, msfvenom  
-- **Operating Systems:** Kali Linux, Ubuntu, Windows 11  
-- **Languages/Scripting:** Python (basic), Bash  
-- **Monitoring & Networking:** Wireshark, iptables, ufw  
-- **Frameworks:** MITRE ATT&CK, CIS Controls (basic)
+* **Sole Proprietor Focus:** When you work with me, you work directly with the expert. I provide dedicated, one-on-one service.
+* **Practical Security:** I focus on defending against the most common threats you actually face, not just theoretical problems.
+* **Bilingual Communication:** I offer all services in both **English and Spanish**, ensuring you understand every step we take to secure your network.
+* **Client Empowerment:** My goal is to leave you safer and smarter. I explain what I'm doing and why, so you feel confident in your security.
 
 ---
 
-## 🌐 Language & Community Contributions
+## 🧪 Demonstrated Expertise & Lab Projects
 
-I believe cybersecurity is global. I’ve contributed by translating tools and creating multilingual resources.
+To stay ahead of threats, I maintain a personal cybersecurity lab where I simulate attacks and test defenses. This hands-on work ensures the solutions I provide for you are tested against real-world scenarios. This lab is fully documented in my [`purple-lab-home`](https://github.com/elcasodepaz/purple-lab-home) repository.
 
-- 🇪🇸 **[Ojo-Cibernético](https://github.com/elcasodepaz/Ojo-cibernetico)**: Spanish-translated OSINT tool  
-  *Rastreador de Teléfonos y Nombres de Usuario basado en repositorios originales en inglés*
+| 🔐 Lab Simulation | ⚙️ Tools Used | 📄 Client Benefit |
+| :--- | :--- | :--- |
+| **Brute Force Attack & Defense** | Hydra, SSH, Wazuh | Protects your accounts from being hacked by automated password-guessing tools. |
+| **Phishing & Payload Simulation** | Gophish, Defender | Strengthens your ability to spot and avoid malicious emails, the #1 entry point for hackers. |
+| **Firewall & Port Scanning** | iptables, ufw, Nmap | Ensures your network is invisible to attackers scanning for easy targets. |
+| **Honeypot Development** | Raspberry Pi, Cowrie | I study attacker methods firsthand to build better, proactive defenses for your network. |
 
-- 🌐 **[WiFi-Snatcher](https://github.com/elcasodepaz/wifi-snatcher)** + **[OSINT-Finder](https://github.com/elcasodepaz/osint-finder)**: Lightweight tools featured on my GitHub Pages terminal-style website:
-  → [elcasodepaz.github.io](https://elcasodepaz.github.io)
-
-These projects show my commitment to sharing knowledge across languages and helping new learners in cybersecurity.
 
 ---
 
-## 💼 Professional Focus
+## ⚙️ Skills & Certifications
 
-- Building Purple Team-style homelabs with offensive and defensive techniques  
-- Writing custom detection rules and analyzing log data  
-- Practicing control assessments and reporting  
-- Documenting all learning and projects in public
+- **Core Skills:** Network Security, Penetration Testing, Router Configuration, SIEM (Wazuh), Log Analysis.
+- **Tools:** Nmap, Wireshark, Metasploit, iptables, Sysmon, and various security frameworks.
+- **Languages:** English (Native), Spanish (Native).
+- **Certifications:**
+    - **Google Cybersecurity Professional Certificate** (Coursera)
+    - **Linux Fundamentals** – Hack The Box Academy (2024)
+    - **Ethical Hacking for Beginners** – Udemy
+    - **Social Engineering, OSINT & Malware** – Udemy
 
 ---
 
 ## 🌐 Connect With Me
 
-- [GitHub Projects](https://github.com/elcasodepaz)  
-- [GitHub Pages Site](https://elcasodepaz.github.io)  
-- [LinkedIn (coming soon)](https://linkedin.com/in/yourhandle)
+Ready to secure your digital world? Let's talk.
+
+- **Email:** `your-professional-email@example.com`
+- **GitHub Projects:** `https://github.com/elcasodepaz`
+- **Website:** `https://elcasodepaz.github.io`
+- **LinkedIn:** `(Link to your profile)`
 
 ---
 
@@ -124,9 +111,8 @@ These projects show my commitment to sharing knowledge across languages and help
 
 ---
 
-## 🧠 Motto
+## 🧠 My Business Motto
 
-> "Every alert tells a story. My job is to find the truth behind it."
+> "Your security is my priority. I'm here to find and fix the risks before they become problems."
 ---
-
 

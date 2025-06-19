@@ -68,10 +68,9 @@ I believe in transparency. These repositories (both current and planned) are des
 Ready to take your security seriously? Contact me for a consultation.
 
 - **Business:** `Nj cyber safety`
-- **Email:** `contact@njcybersafety.com` (example)
+- **Email:** `contact@soon` (example)
 - **GitHub Portfolio:** `https://github.com/elcasodepaz`
-- **Website:** `https://elcasodepaz.github.io`
-
+- **Website:** `https://soon
 ---
 
 <p align="center">

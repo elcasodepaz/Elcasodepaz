@@ -14,7 +14,7 @@
 
 ## 👋 Welcome to Nj cyber safety
 
-My name is **Anthony **, and I'm the founder of **Nj cyber safety**. I provide robust cybersecurity solutions by demonstrating and defending against the very techniques used by malicious actors.
+My name is **Anthony**, and I'm the founder of **Nj cyber safety**. I provide robust cybersecurity solutions by demonstrating and defending against the very techniques used by malicious actors.
 
 This GitHub profile is more than a resume—it's a living showcase of my work. Here, you'll find repositories demonstrating simulated attacks on homes and small businesses. My goal is to pull back the curtain on cybersecurity, show you the real threats, and provide advanced protection that is both effective and affordable.
 

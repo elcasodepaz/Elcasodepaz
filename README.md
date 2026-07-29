@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I go by **Cyberize**. I'm an independent cybersecurity enthusiast and red team practitioner dedicated to understanding how adversaries operate, dissecting attack vectors step-by-step, and building tools to demonstrate real-world threat techniques.
+I go by **Cybereyez**. I'm an independent cybersecurity enthusiast and red team practitioner dedicated to understanding how adversaries operate, dissecting attack vectors step-by-step, and building tools to demonstrate real-world threat techniques.
 
 * 🎯 **Offensive Operations (Red Team):** Network penetration testing, wireless reconnaissance, social engineering simulations, and infrastructure mapping.
 * 🛠️ **Research & Tooling:** Developing practical scripts, threat intelligence workflows, and security labs to educate and demonstrate tradecraft.

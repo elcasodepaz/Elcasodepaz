@@ -1,4 +1,4 @@
-<h1 align="center">⚡ Cyberize | Red Team Specialist ⚡</h1>
+<h1 align="center">⚡ Cybereyez | Red Team Specialist ⚡</h1>
 <p align="center">
   <strong>Adversary Emulation | Offensive Security | Threat Research</strong><br>
   <em>Offensive security practitioner focused on practical threat simulation, hands-on tooling, and security research.</em>

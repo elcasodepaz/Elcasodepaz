@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
   <title id="title">Anthony's cybersecurity portfolio</title>
-  <desc id="desc">A colorful cybersecurity network graphic with defensive security, Linux, Python, and Cardputer ADV focus areas.</desc>
+  <desc id="desc">A colorful cybersecurity network graphic with penetration testing, defensive security, Linux, and Python focus areas.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1220"/>
@@ -39,6 +39,6 @@
     <circle cx="259" cy="249" r="3" fill="#a78bfa"/>
     <text x="277" y="253" fill="#85b8ff">LINUX + PYTHON</text>
     <circle cx="420" cy="249" r="3" fill="#a78bfa"/>
-    <text x="438" y="253" fill="#c4b5fd">CARDPUTER ADV</text>
+    <text x="438" y="253" fill="#c4b5fd">PURPLE TEAM</text>
   </g>
 </svg>

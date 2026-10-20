@@ -1,32 +1,57 @@
-# Anthony | Cybersecurity Portfolio
+<div align="center">
+  <img src="./profile-header.svg" alt="Anthony — cybersecurity portfolio" width="100%">
+</div>
 
-I’m building practical cybersecurity skills through hands-on labs and small projects. My current direction is **defensive security and purple-team learning**, with a focus on Linux, Python, networking, and cloud security.
+<h2 align="center">From hard hats to cybersecurity</h2>
 
-I came to technology after more than seven years in construction, where I progressed from laborer to site manager. I bring that same focus on planning, safety, troubleshooting, and finishing the work to my cybersecurity learning.
+<p align="center">
+  Building practical skills in defensive security, Linux, Python, networking, and cloud security — one documented project at a time.
+</p>
 
-## Training
+<p align="center">
+  <a href="https://elcasodepaz.github.io/"><img src="https://img.shields.io/badge/Portfolio-Visit-57E3B0?style=for-the-badge&labelColor=0B1220" alt="Visit portfolio"></a>
+  <a href="https://github.com/elcasodepaz?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-85B8FF?style=for-the-badge&labelColor=0B1220" alt="View GitHub projects"></a>
+</p>
 
-- **Google Cybersecurity Professional Certificate** — completed
-- **HTB Academy Linux course** — completed
-- Continuing to practice Linux, Python, networking, and security fundamentals
+---
 
-## Selected work
+## 👋 About me
 
-| Project | What it does | Status |
-| --- | --- | --- |
-| [Domain Posture Check](https://github.com/elcasodepaz/purple-lab-home/tree/main/domain-posture-check) | Checks DNS resolution, HTTPS availability, TLS certificate validity, and common response security headers for one domain. | Building |
-| [Purple Lab Home](https://github.com/elcasodepaz/purple-lab-home) | A learning workspace for documenting small defensive labs and security investigations. | In progress |
-| [Ojo-cibernético](https://github.com/elcasodepaz/Ojo-cibernetico) | Spanish-language OSINT project. I translated and studied the project; I’m continuing to improve its documentation. | Learning / documentation |
-| [Cybersecurity portfolio site](https://elcasodepaz.github.io/) | My project index and learning notes. | Updating |
+I’m Anthony. Before moving toward cybersecurity, I spent more than seven years in construction and worked my way from laborer to site manager. I bring that experience with planning, troubleshooting, safety, and follow-through into my technical work.
 
-## Tools I’m practicing
+I’m rebuilding my skills through small hands-on projects and documenting what I learn. My current direction is defensive security and purple-team fundamentals.
 
-Linux and Kali • Python • Git and GitHub • networking fundamentals • security logs • cloud security concepts
+## 🧭 Current focus
 
-## How I work
+| 🐍 Python | 🐧 Linux | 🛡️ Defensive security | 💻 Cardputer ADV |
+|:---:|:---:|:---:|:---:|
+| Building and testing small tools | Terminal and system fundamentals | Logs, networking, and safe lab work | Learning embedded programming |
 
-I use systems I own or have permission to test. I document the goal, setup, steps, observations, and defensive takeaways for each lab. I’m building these skills project by project and label work in progress clearly.
+## 🧪 Featured projects
 
-- **GitHub:** [@elcasodepaz](https://github.com/elcasodepaz)
-- **Portfolio:** [elcasodepaz.github.io](https://elcasodepaz.github.io/)
-- **Languages:** English and Spanish
+| Project | What I’m learning |
+| --- | --- |
+| [Domain Posture Check](https://github.com/elcasodepaz/purple-lab-home/tree/main/domain-posture-check) | Python, DNS, HTTPS, TLS, security headers, and offline unit tests |
+| [Purple Lab Home](https://github.com/elcasodepaz/purple-lab-home) | Documenting defensive labs and practical security lessons |
+| [Ojo-cibernético](https://github.com/elcasodepaz/Ojo-cibernetico) | Spanish-language OSINT project I translated and studied; improving its documentation |
+
+## 🎓 Training
+
+<p>
+  <img src="https://img.shields.io/badge/Google_Cybersecurity_Professional_Certificate-Completed-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Cybersecurity Professional Certificate completed">
+  <img src="https://img.shields.io/badge/HTB_Academy_Linux_Course-Completed-9FEF00?style=flat-square&logo=hackthebox&logoColor=black" alt="HTB Academy Linux course completed">
+</p>
+
+## 🧰 Tools I’m practicing
+
+Linux · Python · Git and GitHub · networking fundamentals · security logs · cloud security concepts
+
+## ✅ How I work
+
+I test only systems I own or have permission to assess. For each project, I aim to explain the goal, setup, steps, results, limitations, and defensive takeaways. Work in progress is labeled clearly.
+
+<p align="center">
+  <a href="https://github.com/elcasodepaz">GitHub: @elcasodepaz</a> ·
+  <a href="https://elcasodepaz.github.io/">Portfolio</a> ·
+  English / Español
+</p>

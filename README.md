@@ -23,9 +23,9 @@ I’m rebuilding my skills through small hands-on projects and documenting what 
 
 ## 🧭 Current focus
 
-| 🧪 Pentesting | 🐍 Python | 🐧 Linux | 💻 Cardputer ADV |
+| 🧪 Pentesting | 🐍 Python | 🐧 Linux | 🛡️ Blue Team |
 |:---:|:---:|:---:|:---:|
-| Learning methods in authorized labs | Building and testing small tools | Terminal and system fundamentals | Learning embedded programming |
+| Learning methods in authorized labs | Building and testing small tools | Terminal and system fundamentals | Practicing detection and log analysis |
 
 ## 🧪 Featured projects
 

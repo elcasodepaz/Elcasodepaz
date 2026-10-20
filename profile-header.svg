@@ -35,7 +35,7 @@
   <text x="68" y="165" fill="#f1f6ff" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700">ANTHONY</text>
   <text x="72" y="204" fill="#c5d4e8" font-family="Arial, Helvetica, sans-serif" font-size="21">Cybersecurity Portfolio</text>
   <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700" letter-spacing="1.4">
-    <text x="72" y="253" fill="#57e3b0">DEFENSIVE SECURITY</text>
+    <text x="72" y="253" fill="#57e3b0">PENTESTING + DEFENSE</text>
     <circle cx="259" cy="249" r="3" fill="#a78bfa"/>
     <text x="277" y="253" fill="#85b8ff">LINUX + PYTHON</text>
     <circle cx="420" cy="249" r="3" fill="#a78bfa"/>

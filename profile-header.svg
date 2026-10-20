@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Anthony's cybersecurity portfolio</title>
+  <desc id="desc">A colorful cybersecurity network graphic with defensive security, Linux, Python, and Cardputer ADV focus areas.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset=".55" stop-color="#132642"/>
+      <stop offset="1" stop-color="#251b4a"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="1" x2="1" y2="0">
+      <stop offset="0" stop-color="#57e3b0"/>
+      <stop offset="1" stop-color="#a78bfa"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop stop-color="#7458f5" stop-opacity=".48"/>
+      <stop offset="1" stop-color="#7458f5" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="300" rx="28" fill="url(#bg)"/>
+  <path d="M0 58H1200M0 112H1200M0 166H1200M0 220H1200M0 274H1200M80 0V300M160 0V300M240 0V300M320 0V300M400 0V300M480 0V300M560 0V300M640 0V300M720 0V300M800 0V300M880 0V300M960 0V300M1040 0V300M1120 0V300" stroke="#9dc2ff" stroke-opacity=".055"/>
+  <circle cx="930" cy="150" r="210" fill="url(#glow)"/>
+  <g fill="none" stroke="url(#line)" stroke-width="2">
+    <path d="M825 214 925 145 1046 196 1100 92 966 78 925 145 850 72 825 214"/>
+    <path d="M966 78 1046 196M850 72 966 78" stroke-dasharray="5 8" opacity=".8"/>
+  </g>
+  <g>
+    <circle cx="925" cy="145" r="36" fill="#765cf3"/>
+    <circle cx="925" cy="145" r="48" fill="none" stroke="#b7a8ff" stroke-opacity=".55"/>
+    <path d="M910 145h30M925 130v30" stroke="#fff" stroke-width="3" stroke-linecap="round"/>
+    <circle cx="825" cy="214" r="9" fill="#57e3b0"/><circle cx="850" cy="72" r="7" fill="#85b8ff"/>
+    <circle cx="966" cy="78" r="8" fill="#57e3b0"/><circle cx="1046" cy="196" r="8" fill="#a78bfa"/>
+    <circle cx="1100" cy="92" r="7" fill="#85b8ff"/>
+  </g>
+  <text x="72" y="101" fill="#57e3b0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" font-weight="700" letter-spacing="5">LEARNING BY BUILDING</text>
+  <text x="68" y="165" fill="#f1f6ff" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="700">ANTHONY</text>
+  <text x="72" y="204" fill="#c5d4e8" font-family="Arial, Helvetica, sans-serif" font-size="21">Cybersecurity Portfolio</text>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700" letter-spacing="1.4">
+    <text x="72" y="253" fill="#57e3b0">DEFENSIVE SECURITY</text>
+    <circle cx="259" cy="249" r="3" fill="#a78bfa"/>
+    <text x="277" y="253" fill="#85b8ff">LINUX + PYTHON</text>
+    <circle cx="420" cy="249" r="3" fill="#a78bfa"/>
+    <text x="438" y="253" fill="#c4b5fd">CARDPUTER ADV</text>
+  </g>
+</svg>
